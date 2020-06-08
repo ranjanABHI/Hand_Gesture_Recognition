@@ -24,3 +24,5 @@ testing_cam_data2.ipynb --classifying camera snapshot taken from webacm for mode
 gpu_data1.ipynb	 --training model1 and model2 over data1 using GPU in colab
 
 gpu_data2.ipynb	 --training model1 and model2 over data1 using GPU in colab
+
+SOS_REPORT_FINAL--PDF REPORT OF PROJECT
